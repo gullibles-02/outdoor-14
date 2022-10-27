@@ -1,0 +1,12 @@
+{
+  "name": "OuXMemdkx081HIUbSffOzXFwB9QRePQnNiOXl1ow4yjyGImN7F",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "สถิติหวยออกย้อนหลัง20ปี สูตรหวยลาว จาก สถิติหวยออกย้อนหลัง20ปี Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด แม่นๆ แนวทางเลขเด็ดหวยลาววันนี้ การันตีความปังด้วยก",
+  "repository": "https://github.com/gullibles-02/outdoor-14",
+  "keywords": ["สถิติหวยออกย้อนหลัง20ปี","สถิติหวยออกย้อนหลัง20ปี Huaylike"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
