@@ -1,13 +1,10 @@
 {
-  "name": "โปรแกรมตรวจหวย สรุปว่าอะไร - เว็บใหม่ tubtim389 2023 ล่าสุด",
+  "name": "L4cVmeP8q2bWIhRX7Dt9IXJZOxHWLmAG5H5ZfiipJuNMCxeVgi",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "โปรแกรมตรวจหวย เลขเด็ด โดย โปรแกรมตรวจหวย ที่ Tubtim389 เว็บหวยออนไลน์ อันดับหนึ่ง ในงวดวันที่ 1 เมษายน 2566 เว็บไซต์หวยไทยขอนำเสนอชุดเลขจาก หวยคมชอบส่วนตั",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": [
-    "โปรแกรมตรวจหวย",
-    "โปรแกรมตรวจหวย Tubtim389"
-  ],
+  "keywords": ["โปรแกรมตรวจหวย","โปรแกรมตรวจหวย Tubtim389"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
