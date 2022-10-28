@@ -1,13 +1,10 @@
 {
-  "name": "หวยเกาหลีย้อนหลัง เล่นที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "sb1cWqJPOVpXZE6gEqs8Zs4FDNZf9WgZsFWBW4CiyVbjg4waUr",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "หวยเกาหลีย้อนหลัง หวยไทยรัฐ ว่า หวยเกาหลีย้อนหลัง Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด ชุดตารางเลขเด่นที่ทางเว็บไซต์หวยไทยของเราได้นำเสนอกันมาทุกงว",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": [
-    "หวยเกาหลีย้อนหลัง",
-    "หวยเกาหลีย้อนหลัง Thailotto"
-  ],
+  "keywords": ["หวยเกาหลีย้อนหลัง","หวยเกาหลีย้อนหลัง Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
