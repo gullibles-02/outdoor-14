@@ -1,18 +1,10 @@
 {
-  "name": "หุ้น egx30 ปิดกี่โมง สรุปว่าอะไร - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "XNqmN2EYZrNvEDc9K7T99krFt25zmSVMNRN7ZKFf5VrMOpo3sw",
   "theme": "syntax",
   "version": "1.0.59",
   "description": "หุ้น egx30 ปิดกี่โมง ขอให้สนุกกับการซื้อหวยออนไลน์งวดนี้ค่ะเลข แม้ หุ้น egx30 ปิดกี่โมง ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง 3 ตัว 786 378 578ฟัน 7เลข 2 ",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": [
-    "หุ้น EGX30 ปิดกี่โมง",
-    "หุ้น",
-    "EGX30",
-    "ปิดกี่โมง",
-    "หุ้น Huaysod",
-    "EGX30 Huaysod",
-    "ปิดกี่โมง Huaysod"
-  ],
+  "keywords": ["หุ้น EGX30 ปิดกี่โมง","หุ้น","EGX30","ปิดกี่โมง","หุ้น Huaysod","EGX30 Huaysod","ปิดกี่โมง Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
