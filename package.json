@@ -1,20 +1,10 @@
 {
-  "name": "หุ้นรัสเซีย rts standard index สรุปว่าอะไร - เว็บใหม่ 999lucky 2023 ล่าสุด",
+  "name": "icbofirpzFHE8GXPQRT1aXo6VP0yDyP24wwnxlNIrQ3PLZNgfU",
   "theme": "syntax",
   "version": "1.0.81",
   "description": "หุ้นรัสเซีย rts standard index การเล่นไพ่ดัมมี่ เพื่อ หุ้นรัสเซีย rts standard index ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง มีวิธีการทิ้งไพ่ ดังนี้หมายถึง",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": [
-    "หุ้นรัสเซีย RTS STANDARD INDEX",
-    "หุ้นรัสเซีย",
-    "RTS",
-    "STANDARD",
-    "INDEX",
-    "หุ้นรัสเซีย 999Lucky",
-    "RTS 999Lucky",
-    "STANDARD 999Lucky",
-    "INDEX 999Lucky"
-  ],
+  "keywords": ["หุ้นรัสเซีย RTS STANDARD INDEX","หุ้นรัสเซีย","RTS","STANDARD","INDEX","หุ้นรัสเซีย 999Lucky","RTS 999Lucky","STANDARD 999Lucky","INDEX 999Lucky"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
