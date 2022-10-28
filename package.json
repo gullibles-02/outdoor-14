@@ -1,10 +1,13 @@
 {
-  "name": "BWA7QdaN1jIQj3KP2iZd8xXRaECWsPcb0I7vy34vhOgS62j8OS",
+  "name": "หุ้นสิงคโปร์เปิด ดูที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.71",
   "description": "หุ้นสิงคโปร์เปิด หวยหุ้นออนไลน์ อนึ่ง หุ้นสิงคโปร์เปิด Huay Happy หวยออนไลน์ อันดับหนึ่ง กำหนดให้มีการจ่ายรางวัลเหมือนกับหวยไทย โดยจะนำเอาตัวเลขค่าการปิด ต",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": ["หุ้นสิงคโปร์เปิด","หุ้นสิงคโปร์เปิด Huay Happy"],
+  "keywords": [
+    "หุ้นสิงคโปร์เปิด",
+    "หุ้นสิงคโปร์เปิด Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
