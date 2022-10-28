@@ -1,10 +1,13 @@
 {
-  "name": "oSgfvAHNiPJ3axXJRDxV5IjFSEUu9QhusNevSutrIFLebydDpV",
+  "name": "โปรแกรมคำนวณหวยแม่น มีคำตอบ - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.72",
   "description": "โปรแกรมคำนวณหวยแม่น เลขเด็ดงวดนี้ สำหรับ โปรแกรมคำนวณหวยแม่น Ltobet แอลทีโอ เบท หวยออนไลน์ มีหวยทุกชนิด ทางเว็บไซต์หวยไทยของเราขอนำเสนอชุดเลขจากสำนักหวยอีก",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": ["โปรแกรมคำนวณหวยแม่น","โปรแกรมคำนวณหวยแม่น Ltobet"],
+  "keywords": [
+    "โปรแกรมคำนวณหวยแม่น",
+    "โปรแกรมคำนวณหวยแม่น Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
