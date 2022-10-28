@@ -1,10 +1,13 @@
 {
-  "name": "rlocqXlJt7dKlAQwg00pFeUtdASenq3oOgKoOGSOfwb4czik95",
+  "name": "หวยหุ้นไต้หวัน ทำไมถึงนิยม - เว็บใหม่ huay999 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.82",
   "description": "หวยหุ้นไต้หวัน เลขเด็ดงวดนี้ กับ หวยหุ้นไต้หวัน ที่ Huay999 เว็บหวยออนไลน์ อันดับหนึ่ง เว็บไซต์หวยไทยขอนำเสนอแนวทางหวยรัฐบาลงวด 1762 จากเลขแสนเฮง 1762 ชุดเ",
   "repository": "https://github.com/gullibles-02/outdoor-14",
-  "keywords": ["หวยหุ้นไต้หวัน","หวยหุ้นไต้หวัน Huay999"],
+  "keywords": [
+    "หวยหุ้นไต้หวัน",
+    "หวยหุ้นไต้หวัน Huay999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
